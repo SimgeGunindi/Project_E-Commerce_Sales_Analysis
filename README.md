@@ -1,5 +1,7 @@
 # Project_E-Commerce_Sales_Analysis
-This project analyzes e-commerce sales performance using SQL, Python, and Power BI to explore customer behavior, product performance, and revenue trends through an end-to-end analytics workflow.
+This project analyzes e-commerce sales performance of ~100,000 orders using SQL, Python, and Power BI to explore customer behavior, product performance, and revenue trends through an end-to-end analytics workflow.
+
+![Product Dashboard](Images/powerbi_dashboard/Product_page.png)
 
 ## Dataset
 
@@ -35,13 +37,6 @@ This project analyzes e-commerce sales performance using SQL, Python, and Power 
 - Prioritize marketing strategies around high-frequency products, as revenue is driven more by purchase volume than high-ticket items.
 - Improve engagement strategies for low-frequency customers to increase repeat purchases.
 - Optimize product portfolio around top-performing products, as revenue is highly concentrated.
-
-## Key Visuals
-
-1. Revenue & Growth Overview
-2. Order Composition & Basket Behavior
-3. Customer Behavior & Revenue Distribution
-4. Product Performance & Revenue Contribution
 
 ## Dashboard Preview
 
