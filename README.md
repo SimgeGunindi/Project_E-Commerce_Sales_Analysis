@@ -39,16 +39,16 @@ This project analyzes e-commerce sales performance using SQL, Python, and Power 
 ## Dashboard Preview
 
 ### Revenue & Growth Overview
-[Revenue Dashboard](Images/powerbi_dashboard/Revenue_page.pdf)
+![Revenue Dashboard](Images/powerbi_dashboard/Revenue_page.pdf)
 
 ### Order Composition & Basket Behavior
-[Order Dashboard](Images/powerbi_dashboard/Order_page.pdf)
+![Order Dashboard](Images/powerbi_dashboard/Order_page.pdf)
 
 ### Customer Behavior & Revenue Distribution
-[Customer Dashboard](Images/powerbi_dashboard/Customer_page.pdf)
+![Customer Dashboard](Images/powerbi_dashboard/Customer_page.pdf)
 
 ### Product Performance & Revenue Contribution
-[Product Dashboard](Images/powerbi_dashboard/Product_page.pdf)
+![Product Dashboard](Images/powerbi_dashboard/Product_page.pdf)
 
 ## Business Recommendations
 
