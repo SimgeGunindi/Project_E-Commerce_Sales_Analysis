@@ -1,5 +1,6 @@
 # Project_E-Commerce_Sales_Analysis
-This project analyzes e-commerce sales performance of ~100,000 orders using SQL, Python, and Power BI to explore customer behavior, product performance, and revenue trends through an end-to-end analytics workflow.
+
+End-to-end analysis of ~100,000 orders: customer behavior, revenue trends, product performance, and Pareto analysis using SQL and Python, delivered as 4 interactive Power BI dashboards.
 
 ![Revenue Dashboard](Images/powerbi_dashboard/Revenue_page.png)
 
