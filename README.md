@@ -29,6 +29,13 @@ This project analyzes e-commerce sales performance using SQL, Python, and Power 
 - Business performance relied more on frequent low-item purchases, rather than high-price sales.
 - A small group of products contributes a disproportionate share of total revenue.
 
+## Business Recommendations
+
+- Focus on increasing customer retention, as most customers currently purchase only once.
+- Prioritize marketing strategies around high-frequency products, as revenue is driven more by purchase volume than high-ticket items.
+- Improve engagement strategies for low-frequency customers to increase repeat purchases.
+- Optimize product portfolio around top-performing products, as revenue is highly concentrated.
+
 ## Key Visuals
 
 1. Revenue & Growth Overview
@@ -50,12 +57,6 @@ This project analyzes e-commerce sales performance using SQL, Python, and Power 
 ### Product Performance & Revenue Contribution
 ![Product Dashboard](Images/powerbi_dashboard/Product_page.png)
 
-## Business Recommendations
-
-- Focus on increasing customer retention, as most customers currently purchase only once.
-- Prioritize marketing strategies around high-frequency products, as revenue is driven more by purchase volume than high-ticket items.
-- Improve engagement strategies for low-frequency customers to increase repeat purchases.
-- Optimize product portfolio around top-performing products, as revenue is highly concentrated.
 
 ## Repository Structure
 
